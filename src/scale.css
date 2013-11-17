@@ -1,0 +1,21 @@
+:root {
+/*
+ * Modular Scale
+ * ----------------------
+ * 16px @ 1:1.618
+ * 20px @ 1:1.618
+ * ----------------------
+ */
+    var-scale-1 = 0.295rem;
+    var-scale-2 = 0.382rem;
+    var-scale-3 = 0.478rem;
+    var-scale-4 = 0.618rem;
+    var-scale-5 = 0.773rem;
+    var-scale-6 = 1rem;
+    var-scale-7 = 1.25rem;
+    var-scale-8 = 1.618rem;
+    var-scale-9 = 2.023rem;
+    var-scale-10 = 2.618rem;
+    var-scale-11 = 3.272rem;
+    var-scale-12 = 4.236rem;
+}

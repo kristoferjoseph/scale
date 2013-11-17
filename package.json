@@ -1,0 +1,25 @@
+{
+  "name": "topcoat-scale",
+  "version": "0.0.0",
+  "description": "Modular scale for Topcoat theme",
+  "main": "entry.css",
+  "style": "src/scale.css",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kristoferjoseph/scale.git"
+  },
+  "keywords": [
+    "scale",
+    "topcoat",
+    "css",
+    "modular"
+  ],
+  "author": "@dam",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/scale/issues"
+  }
+}
